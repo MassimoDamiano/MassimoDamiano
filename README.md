@@ -5,7 +5,7 @@
 Building mobile applications and REST APIs with a focus on clean code, maintainable architecture and continuous learning.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Massimo_Damiano-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/massimo-damiano/)
-[![GitHub](https://img.shields.io/badge/GitHub-MassimoDamiano-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MassimoDamiano)
+[![GitHub](https://img.shields.io/badge/GitHub-MassimoDamiano-181717?style=for-the-badge&logo=github&logoColor=white)]
 
 ---
 
